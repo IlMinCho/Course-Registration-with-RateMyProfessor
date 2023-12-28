@@ -1,0 +1,30 @@
+Barbara Tonferullo	3.9 / 5.0 - Mathematics
+Biljana John		4.3 / 5.0 - Computer Science
+David Cox		4.6 / 5.0 - Chemistry
+David Massey	4.5 / 5.0 - Computer Science
+Deborah Westaway	4.8 / 5.0 - Nursing
+Donald Veitch	1.8 / 5.0 - English
+Elizabeth Miller	4.0 / 5.0 - Computer Science
+Faridoon Noori	2.7 / 5.0 - Computer Science
+George Florentine	2.5 / 5.0 - Accounting
+Harris Williams	1.6 / 5.0 - Computer Science
+Helmut Kahlert	3.7 / 5.0 - Hospitality
+James Dilday	4.7 / 5.0 - Criminal Justice
+Jenna Collins	5.0 / 5.0 - English
+Joan Brenner	4.4 / 5.0 - Physics
+Jose Chaves	4.9 / 5.0 - Business
+Judith Tully		4.0 / 5.0 - Mathematics
+Kathryn Mapstone	3.8 / 5.0 - History
+Kim Frashure	4.1 / 5.0 - Biology
+Mark Rotondo	4.8 / 5.0 - Mathematics
+Michael Harris	2.7 / 5.0 - Computer Science
+Natalie Oliveri	4.4 / 5.0 - English
+Richard Hall		4.6 / 5.0 - Sociology
+SamuelHong	5.0 / 5.0 - Psychology
+Thomas Chuda	4.0 / 5.0 - Criminal Justice
+Tim Mclaughlin	3.6 / 5.0 - Literature
+Victorita Miller	2.3 / 5.0 - Mathmatics
+William Davidge	3.5 / 5.0 - Marketing
+William Hoover	4.3 / 5.0 - Biology
+Whitmaaan Bolles	4.7 / 5.0 - English
+William Soper	3.1 / 5.0 - Chemistry

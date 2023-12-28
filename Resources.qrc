@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/pictures"/>
+    <qresource prefix="/">
+        <file>Sources/BHCCLogo.png</file>
+        <file>Sources/BHCC.png</file>
+        <file>Sources/admin.png</file>
+        <file>Sources/user.png</file>
+    </qresource>
+</RCC>
