@@ -1,2 +1,2 @@
 # Course-Registration-with-RateMyProfessor
-![Uploading ezgif.com-video-to-gif-converter.gif…]()
+![Application](https://github.com/IlMinCho/Course-Registration-with-RateMyProfessor/assets/73693697/cc707e2a-a9eb-4a30-bbb9-902992853634)
